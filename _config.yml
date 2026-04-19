@@ -1,0 +1,4 @@
+exclude:
+  - Source/OwlCarousel2-2.3.4/docs_src
+  - node_modules
+  - vendor
